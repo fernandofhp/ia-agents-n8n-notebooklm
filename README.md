@@ -59,7 +59,7 @@ O grande diferencial deste projeto foi o processo iterativo de engenharia de pro
 * **Tools (Ferramentas):** Interfaces de código (como sub-workflows do n8n ou requisições HTTP) que o Agente decide invocar quando precisa interagir com o mundo externo (ex: buscar dados no CRM, enviar um e-mail).
 * **Vector Store / Embeddings:** Bancos de dados de vetores usados no n8n para dar memória semântica de longo prazo aos agentes, permitindo consultas RAG eficientes.
 * **Loop de Reação (Reasoning Loop):** O ciclo de "Pensamento -> Ação -> Observação" que a LLM executa internamente até julgar que a tarefa do fluxo foi concluída.
-* Termos mais específicos: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/4155cb81-7ec7-4069-9f97-636d7c32713f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
+* Termos mais específicos: **[TERMOS TÉCNICOS](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/4155cb81-7ec7-4069-9f97-636d7c32713f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)** 
 
 ### 🛠️ 3. Biblioteca de Prompts Reutilizáveis para Revisão
 Guarde estes prompts no seu NotebookLM para revisitar este tema no futuro:
