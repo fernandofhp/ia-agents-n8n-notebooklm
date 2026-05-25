@@ -64,10 +64,15 @@ O grande diferencial deste projeto foi o processo iterativo de engenharia de pro
 ### 🛠️ 3. Biblioteca de Prompts Reutilizáveis para Revisão
 Guarde estes prompts no seu NotebookLM para revisitar este tema no futuro:
 
-```text
+
 PROMPT PARA MAPEAR NOVOS NÓS:
-"Atue como analista de integrações. Analise a nova fonte fornecida sobre o nó [NOME_DO_NO] do n8n e me diga: 1) Qual o input esperado, 2) Quais as ferramentas padrão ele aceita e 3) Forneça um exemplo de JSON de saída."
+```text
+"Atue como analista de integrações. Analise a nova fonte fornecida sobre o nó [NOME_DO_NO] do n8n e me diga: 1) Qual o input esperado, 2) Quais as ferramentas padrão ele aceita e 3) Forneça um exemplo de JSON de saída."```
+
 PROMPT PARA MAPEAMENTO DE GOVERNANÇA E SEGURANÇA:
-"Atue como um Engenheiro de Segurança de IA. Com base nos artigos e documentações fornecidos, analise os riscos de 'Prompt Injection' (injeção de prompt) e execução involuntária de ferramentas corporativas por agentes autônomos no n8n. Liste as 3 principais diretrizes recomendadas pelas fontes para criar travas de segurança e validação ('guardrails') nas instruções do agente."
+```text
+"Atue como um Engenheiro de Segurança de IA. Com base nos artigos e documentações fornecidos, analise os riscos de 'Prompt Injection' (injeção de prompt) e execução involuntária de ferramentas corporativas por agentes autônomos no n8n. Liste as 3 principais diretrizes recomendadas pelas fontes para criar travas de segurança e validação ('guardrails') nas instruções do agente."```
+
 PROMPT PARA ANÁLISE DE TOMADA DE DECISÃO (ROUTING):
-"Com base na documentação técnica anexada, explique como o nó de AI Agent do n8n decide, internamente, qual ferramenta (Tool) acionar quando recebe uma demanda ambígua do usuário. Forneça uma estratégia baseada nas fontes para melhorar as descrições das ferramentas (Tool Descriptions) de modo a otimizar a taxa de acerto do modelo."
+```text
+"Com base na documentação técnica anexada, explique como o nó de AI Agent do n8n decide, internamente, qual ferramenta (Tool) acionar quando recebe uma demanda ambígua do usuário. Forneça uma estratégia baseada nas fontes para melhorar as descrições das ferramentas (Tool Descriptions) de modo a otimizar a taxa de acerto do modelo."```
