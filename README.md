@@ -6,6 +6,8 @@ Este repositório consolida o desenvolvimento de um **Caderno Temático Avançad
 
 O foco desta pesquisa é investigar a transição dos fluxos de trabalho lineares (IaaS/iPaaS tradicionais) para **Sistemas Multi-Agentes de IA (AI Agents)** orquestrados via **n8n**, explorando como LLMs integradas a ferramentas (*tools*) e memória podem tomar decisões dinâmicas em ambientes corporativos.
 
+💡 **[CLIQUE AQUI PARA ACESSAR O NOTEBOOKLM PÚBLICO DO PROJETO](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9)**
+
 ### Objetivos Estratégicos:
 * **Mapear a Arquitetura de Agentes:** Compreender a fundo os conceitos de *Reasoning Engine* (Mecanismos de Raciocínio), memória de curto/longo prazo (vetoriais) e o paradigma *Human-in-the-loop*.
 * **Analisar a Orquestração Avançada no n8n:** Dominar os nós de IA avançados do n8n (*AI Agent Node*, *Tools Node*, *Vector Store*) e entender como expor APIs e sistemas legados como ferramentas para os agentes.
