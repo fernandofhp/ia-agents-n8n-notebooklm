@@ -48,7 +48,7 @@ O grande diferencial deste projeto foi o processo iterativo de engenharia de pro
 *Este miniguia foi gerado e refinado de forma ativa através das interações documentadas acima.*
 
 ### 📄 1. Resumos Estruturados do Assunto
-* [Acesse aqui o Resumo Técnico de Arquitetura de Agentes](./docs/resumo-arquitetura.md) *(Dica: Você pode criar esse arquivo MD na mesma pasta ou colar o texto estruturado direto aqui abaixo)*
+* - Cards didáticos: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9 *
 
 ### 🧠 2. Glossário de Conceitos-Chave
 * **AI Agent (Agente de IA):** Entidade de software que utiliza um modelo de linguagem para planejar e executar ações baseadas em objetivos, em vez de seguir um código linear rígido.
