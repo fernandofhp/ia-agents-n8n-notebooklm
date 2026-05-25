@@ -48,16 +48,23 @@ O grande diferencial deste projeto foi o processo iterativo de engenharia de pro
 *Este miniguia foi gerado e refinado de forma ativa através das interações documentadas acima.*
 
 ### 📄 1. Resumos Estruturados do Assunto
-* - Cards didáticos: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9 *
+*  Cards didáticos: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9 *
+*  Apresentação: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/2807a5bb-7cce-45c8-939e-08e76cefb037?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
+*  Relatório/resumo: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/f33c05c0-8250-4f33-b914-593bc485c5c2?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
 
 ### 🧠 2. Glossário de Conceitos-Chave
 * **AI Agent (Agente de IA):** Entidade de software que utiliza um modelo de linguagem para planejar e executar ações baseadas em objetivos, em vez de seguir um código linear rígido.
 * **Tools (Ferramentas):** Interfaces de código (como sub-workflows do n8n ou requisições HTTP) que o Agente decide invocar quando precisa interagir com o mundo externo (ex: buscar dados no CRM, enviar um e-mail).
 * **Vector Store / Embeddings:** Bancos de dados de vetores usados no n8n para dar memória semântica de longo prazo aos agentes, permitindo consultas RAG eficientes.
 * **Loop de Reação (Reasoning Loop):** O ciclo de "Pensamento -> Ação -> Observação" que a LLM executa internamente até julgar que a tarefa do fluxo foi concluída.
+* Termos mais específicos: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/4155cb81-7ec7-4069-9f97-636d7c32713f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
 
 ### 🛠️ 3. Biblioteca de Prompts Reutilizáveis para Revisão
 Guarde estes prompts no seu NotebookLM para revisitar este tema no futuro:
 ```text
 PROMPT PARA MAPEAR NOVOS NÓS:
-"Atuei como analista de integrações. Analise a nova fonte fornecida sobre o nó [NOME_DO_NO] do n8n e me diga: 1) Qual o input esperado, 2) Quais as ferramentas padrão ele aceita e 3) Forneça um exemplo de JSON de saída."
+"Atue como analista de integrações. Analise a nova fonte fornecida sobre o nó [NOME_DO_NO] do n8n e me diga: 1) Qual o input esperado, 2) Quais as ferramentas padrão ele aceita e 3) Forneça um exemplo de JSON de saída."
+PROMPT PARA MAPEAMENTO DE GOVERNANÇA E SEGURANÇA:
+"Atue como um Engenheiro de Segurança de IA. Com base nos artigos e documentações fornecidos, analise os riscos de 'Prompt Injection' (injeção de prompt) e execução involuntária de ferramentas corporativas por agentes autônomos no n8n. Liste as 3 principais diretrizes recomendadas pelas fontes para criar travas de segurança e validação ('guardrails') nas instruções do agente."
+PROMPT PARA ANÁLISE DE TOMADA DE DECISÃO (ROUTING):
+"Com base na documentação técnica anexada, explique como o nó de AI Agent do n8n decide, internamente, qual ferramenta (Tool) acionar quando recebe uma demanda ambígua do usuário. Forneça uma estratégia baseada nas fontes para melhorar as descrições das ferramentas (Tool Descriptions) de modo a otimizar a taxa de acerto do modelo."
