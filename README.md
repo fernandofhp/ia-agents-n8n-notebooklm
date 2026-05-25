@@ -50,7 +50,7 @@ O grande diferencial deste projeto foi o processo iterativo de engenharia de pro
 *Este miniguia foi gerado e refinado de forma ativa através das interações documentadas acima.*
 
 ### 📄 1. Resumos Estruturados do Assunto
-*  Cards didáticos: **[📇Cards](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9 *
+*  Cards didáticos: **[📇Cards](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/7ff253d3-92dc-4fb0-b5a6-3038f7d4b3a5?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)**
 *  Apresentação: https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/2807a5bb-7cce-45c8-939e-08e76cefb037?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)**
 *  Relatório/resumo: **[📝Resumo](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/f33c05c0-8250-4f33-b914-593bc485c5c2?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)**
 *  Apresentação: **[📽️Arquitetura da Precisão](https://notebooklm.google.com/notebook/3c2ae6ee-93a4-4e11-a1cb-498b5966acf9/artifact/2807a5bb-7cce-45c8-939e-08e76cefb037?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_)**
